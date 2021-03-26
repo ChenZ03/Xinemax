@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="151938d8-0935-41d1-9f26-b0ed385a9245" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/Registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation_checkout.php" beforeDir="false" afterPath="$PROJECT_DIR$/Validation_checkout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dompdf/5ecb856732932.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dompdf/receipt.php" beforeDir="false" afterPath="$PROJECT_DIR$/dompdf/receipt.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/harga.php" beforeDir="false" afterPath="$PROJECT_DIR$/harga.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/importcsv.php" beforeDir="false" afterPath="$PROJECT_DIR$/importcsv.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jualan.php" beforeDir="false" afterPath="$PROJECT_DIR$/jualan.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jualanReport.php" beforeDir="false" afterPath="$PROJECT_DIR$/jualanReport.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kemas.php" beforeDir="false" afterPath="$PROJECT_DIR$/kemas.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kemaskini.php" beforeDir="false" afterPath="$PROJECT_DIR$/kemaskini.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masukRecipt.php" beforeDir="false" afterPath="$PROJECT_DIR$/masukRecipt.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/muatTurun.php" beforeDir="false" afterPath="$PROJECT_DIR$/muatTurun.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pendaftaran.css" beforeDir="false" afterPath="$PROJECT_DIR$/pendaftaran.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pendaftaran.php" beforeDir="false" afterPath="$PROJECT_DIR$/pendaftaran.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pendaftaranPekerja.php" beforeDir="false" afterPath="$PROJECT_DIR$/pendaftaranPekerja.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/senaraiPekerja.php" beforeDir="false" afterPath="$PROJECT_DIR$/senaraiPekerja.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/senaraiWayang.php" beforeDir="false" afterPath="$PROJECT_DIR$/senaraiWayang.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UkihjWICbeVzCwWrTGILG8V37i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Wh_web-master" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\Xinemax\dompdf" />
+      <recent name="D:\xampp\htdocs\Xinemax" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="151938d8-0935-41d1-9f26-b0ed385a9245" name="Default Changelist" comment="" />
+      <created>1575907116416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575907116416</updated>
+      <workItem from="1575907123459" duration="119000" />
+      <workItem from="1575965789907" duration="717000" />
+      <workItem from="1575989711071" duration="2518000" />
+      <workItem from="1575996045040" duration="1403000" />
+      <workItem from="1576121390904" duration="4152000" />
+      <workItem from="1576125855293" duration="1337000" />
+      <workItem from="1577596159045" duration="2015000" />
+      <workItem from="1577764042223" duration="2691000" />
+      <workItem from="1577970368680" duration="5321000" />
+      <workItem from="1578735554282" duration="128000" />
+      <workItem from="1578760583689" duration="251000" />
+      <workItem from="1578824828685" duration="7966000" />
+      <workItem from="1578839669853" duration="1633000" />
+      <workItem from="1578841396690" duration="4312000" />
+      <workItem from="1578921706721" duration="8912000" />
+      <workItem from="1578995618792" duration="7602000" />
+      <workItem from="1579092915612" duration="9913000" />
+      <workItem from="1579178466338" duration="8033000" />
+      <workItem from="1579189079093" duration="45000" />
+      <workItem from="1579314019091" duration="14300000" />
+      <workItem from="1579445182647" duration="5000" />
+      <workItem from="1579774776516" duration="3992000" />
+      <workItem from="1580199912404" duration="2859000" />
+      <workItem from="1580287888801" duration="633000" />
+      <workItem from="1580306397639" duration="2850000" />
+      <workItem from="1580482680332" duration="2152000" />
+      <workItem from="1580522340855" duration="19917000" />
+      <workItem from="1584279010449" duration="4381000" />
+      <workItem from="1584289045494" duration="4450000" />
+      <workItem from="1584333945153" duration="4384000" />
+      <workItem from="1584345086163" duration="10992000" />
+      <workItem from="1584375270635" duration="1425000" />
+      <workItem from="1584431130473" duration="3101000" />
+      <workItem from="1584605320793" duration="5352000" />
+      <workItem from="1585108368033" duration="39000" />
+      <workItem from="1585110656533" duration="8583000" />
+      <workItem from="1585372173827" duration="2793000" />
+      <workItem from="1585980443051" duration="11909000" />
+      <workItem from="1586012336367" duration="6488000" />
+      <workItem from="1586085434587" duration="900000" />
+      <workItem from="1586092989934" duration="5846000" />
+      <workItem from="1586179041259" duration="4137000" />
+      <workItem from="1586223028808" duration="39000" />
+      <workItem from="1586223099076" duration="17000" />
+      <workItem from="1586230126442" duration="174000" />
+      <workItem from="1586249471601" duration="2170000" />
+      <workItem from="1586349621747" duration="3980000" />
+      <workItem from="1586484938405" duration="5956000" />
+      <workItem from="1587805059759" duration="653000" />
+      <workItem from="1590403542277" duration="337000" />
+      <workItem from="1590403899114" duration="6400000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="198" key="#SQL_Dialects" timestamp="1575969181247">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#SQL_Dialects/0.0.1920.1080@0.0.1920.1080" timestamp="1575969181247" />
+    <state x="794" y="463" key="NewPhpFileDialog" timestamp="1577765585798">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="794" y="463" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577765585798" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1578735605116">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1578735605116" />
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1578735555872">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578735555872" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1575966153133">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1575966153133" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/kemaskini.php</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

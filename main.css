@@ -1,0 +1,127 @@
+body{
+    background-color: rgba(0,0,0,1);
+    padding: 0;
+    width: 100%;
+    height: auto;
+    min-width: 100%;
+    max-height: 100%;
+    max-width: 500px;
+    margin: auto;
+    font-family: "fantasy";
+}
+
+.slideshow {
+    width: 100%;
+    text-align: center;
+}
+
+.slidershow{
+    width: 85vw;
+    height: 30vw;
+    overflow: hidden;
+    margin-top : 4vw;
+    display: inline-block;
+    position: relative;
+}
+/* .middle{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+} */
+.radio-sec {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+}
+.radio{
+    position: relative;
+    top: 100%;
+    transform: translateY(-100%);
+    /* position: absolute;
+    bottom: 1vw; */
+    /* left: 50%;
+    transform: translateX(-50%); */
+}
+.bar{
+    width: 3vw;
+    height: 1vw;
+    border: 0.2ch solid #fff;
+    margin: 6px;
+    cursor: pointer;
+    transition: 0.4s;
+    border-radius: 2vw;
+}
+.bar:hover{
+    background: #fff;
+}
+
+input[name="r"]{
+    position: absolute;
+    visibility: hidden;
+}
+
+.slides{
+    width: 500%;
+    height: 100%;
+    display: flex;
+}
+
+.slide{
+    width: 20%;
+    transition: 0.6s;
+}
+.slide img{
+    width: 100%;
+    height: 100%;
+}
+
+#r1:checked ~ .s1{
+    margin-left: 0;
+}
+#r2:checked ~ .s1{
+    margin-left: -20%;
+}
+#r3:checked ~ .s1{
+    margin-left: -40%;
+}
+#r4:checked ~ .s1{
+    margin-left: -60%;
+}
+#r5:checked ~ .s1{
+    margin-left: -80%;
+}
+
+.flex-container{
+    padding: 8vw;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.flex-item img{
+    width: 12vw;
+    height: 17vw;
+    border-radius: 1vw;
+}
+
+.footer{
+    text-align: center;
+    font-size: 1.2vw;
+    color: gray;
+    width: 100%;
+    background-color: rgba(233,233,233,0.2);
+    height: 3vw;
+    border-top: grey 0.2vw solid;
+    margin-top: -2vw;
+}
+
+.flex-item:hover{
+    filter: blur(0.1vw);
+    -webkit-filter: blur(0.1vw);
+}
